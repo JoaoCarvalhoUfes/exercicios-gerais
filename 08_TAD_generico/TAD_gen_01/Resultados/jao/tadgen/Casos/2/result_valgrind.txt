@@ -1,0 +1,15 @@
+==42416== Memcheck, a memory error detector
+==42416== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==42416== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==42416== Command: Resultados/jao/tadgen/prog Resultados/jao/tadgen/Casos/2
+==42416== Parent PID: 42415
+==42416== 
+==42416== 
+==42416== HEAP SUMMARY:
+==42416==     in use at exit: 0 bytes in 0 blocks
+==42416==   total heap usage: 4 allocs, 4 frees, 8,624 bytes allocated
+==42416== 
+==42416== All heap blocks were freed -- no leaks are possible
+==42416== 
+==42416== For lists of detected and suppressed errors, rerun with: -s
+==42416== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

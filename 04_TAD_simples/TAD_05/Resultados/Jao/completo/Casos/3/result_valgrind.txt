@@ -1,0 +1,15 @@
+==24244== Memcheck, a memory error detector
+==24244== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==24244== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==24244== Command: Resultados/Jao/completo/prog Resultados/Jao/completo/Casos/3
+==24244== Parent PID: 24243
+==24244== 
+==24244== 
+==24244== HEAP SUMMARY:
+==24244==     in use at exit: 0 bytes in 0 blocks
+==24244==   total heap usage: 2 allocs, 2 frees, 8,192 bytes allocated
+==24244== 
+==24244== All heap blocks were freed -- no leaks are possible
+==24244== 
+==24244== For lists of detected and suppressed errors, rerun with: -s
+==24244== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

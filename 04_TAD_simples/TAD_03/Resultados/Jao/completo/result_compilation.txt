@@ -1,0 +1,11 @@
+locadora.c: In function ‘lerAluguelLocadora’:
+locadora.c:93:9: warning: unused variable ‘custo’ [-Wunused-variable]
+   93 |     int custo = 0;
+      |         ^~~~~
+locadora.c: In function ‘devolverFilmesLocadora’:
+locadora.c:116:9: warning: this ‘for’ clause does not guard... [-Wmisleading-indentation]
+  116 |         for(j = 0; j < locadora.numFilmes; j++)
+      |         ^~~
+locadora.c:134:13: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘for’
+  134 |             if (!Cadastrado)
+      |             ^~

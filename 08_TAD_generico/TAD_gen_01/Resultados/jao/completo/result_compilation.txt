@@ -1,0 +1,10 @@
+main.c:4:1: warning: return type defaults to ‘int’ [-Wimplicit-int]
+    4 | main()
+      | ^~~~
+main.c: In function ‘main’:
+main.c:27:5: warning: ‘return’ with no value, in function returning non-void [-Wreturn-type]
+   27 |     return;
+      |     ^~~~~~
+main.c:4:1: note: declared here
+    4 | main()
+      | ^~~~

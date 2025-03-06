@@ -1,0 +1,4 @@
+candidato.c: In function ‘LeCandidato’:
+candidato.c:21:13: warning: unused variable ‘votos’ [-Wunused-variable]
+   21 |     int id, votos;
+      |             ^~~~~

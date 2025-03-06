@@ -1,0 +1,20 @@
+	---
+	---
+	---
+JOGADOR 1 Venceu!
+Jogar novamente? (s,n)
+	---
+	---
+	---
+JOGADOR 1 Venceu!
+Jogar novamente? (s,n)
+	---
+	---
+	---
+JOGADOR 1 Venceu!
+Jogar novamente? (s,n)
+	---
+	---
+	---
+JOGADOR 1 Venceu!
+Jogar novamente? (s,n)
