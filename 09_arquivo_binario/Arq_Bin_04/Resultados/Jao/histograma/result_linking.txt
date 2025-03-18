@@ -1,0 +1,5 @@
+/usr/bin/ld: Resultados/Jao/histograma/main.o: in function `main':
+main.c:(.text+0x83): undefined reference to `CalcularHistograma'
+/usr/bin/ld: main.c:(.text+0x99): undefined reference to `MostrarHistograma'
+/usr/bin/ld: main.c:(.text+0xa8): undefined reference to `DestruirHistograma'
+collect2: error: ld returned 1 exit status

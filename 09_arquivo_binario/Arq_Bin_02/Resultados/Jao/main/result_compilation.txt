@@ -1,0 +1,7 @@
+main.c: In function ‘main’:
+main.c:18:5: warning: ‘return’ with no value, in function returning non-void [-Wreturn-type]
+   18 |     return;
+      |     ^~~~~~
+main.c:4:5: note: declared here
+    4 | int main(){
+      |     ^~~~
